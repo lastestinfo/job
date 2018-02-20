@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on JOBS</title>
+    <link>http://latestinfo.github.io/job/categories/</link>
+    <description>Recent content in Categories on JOBS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://latestinfo.github.io/job/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>अन्य नौकरियां</title>
+      <link>http://latestinfo.github.io/job/categories/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%AF-%E0%A4%A8%E0%A5%8C%E0%A4%95%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82/</link>
+      <pubDate>Tue, 20 Feb 2018 07:44:41 +0000</pubDate>
+      
+      <guid>http://latestinfo.github.io/job/categories/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%AF-%E0%A4%A8%E0%A5%8C%E0%A4%95%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>सरकारी नौकरियां</title>
+      <link>http://latestinfo.github.io/job/categories/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A5%8C%E0%A4%95%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82/</link>
+      <pubDate>Tue, 20 Feb 2018 16:17:48 +0000</pubDate>
+      
+      <guid>http://latestinfo.github.io/job/categories/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A5%8C%E0%A4%95%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
